@@ -1,3 +1,4 @@
 fastapi~=0.121.1
 pydantic~=2.12.4
 transformers~=4.57.1
+torch~=2.9.0
